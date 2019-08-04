@@ -1,0 +1,14 @@
+.banarBg{
+    background-color: #bb1919;
+}
+.menuBg{
+        background-color: #a31212;
+
+}
+.noUnderline:hover{
+    text-decoration: none;
+}
+.borderRadiusZero{
+    border-radius: 0px;
+    border-color: rgba(0,0,0,0);
+}
